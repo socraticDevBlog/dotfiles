@@ -1,5 +1,5 @@
 set tw=79
-"sets Text's width to 70 chars"
+"sets Text's width to 79 chars"
 
 set nu
 "displays line number"
