@@ -1,0 +1,18 @@
+{
+    "workbench.colorTheme": "Visual Studio Light",
+    "terminal.integrated.fontFamily": "MesloLGS NF",
+    "workbench.statusBar.visible": false,
+    "redhat.telemetry.enabled": false,
+    "git.suggestSmartCommit": false,
+    "diffEditor.ignoreTrimWhitespace": false,
+    "debug.javascript.autoAttachFilter": "always",
+    "editor.rulers": [
+        80
+    ],
+    "workbench.colorCustomizations": {
+        "editorRuler.foreground": "#ffcc40"
+    },
+    "git.autofetch": true,
+    "rewrap.wrappingColumn": 79,
+    "rewrap.autoWrap.enabled": true,
+}
